@@ -1,4 +1,6 @@
 Daikibo Telemetry Data Analysis | Deloitte Job Simulation
+
+
 📌 Project Overview
 This project is part of a Deloitte Australia Data Analytics simulation focused on processing industrial telemetry data. The goal was to unify and analyze data from 4 global factories to identify equipment downtime and operational bottlenecks.
 
@@ -38,4 +40,5 @@ Critical Failure Points: Identified the specific machine types (e.g., LaserWelde
 Tableau Desktop (Data Visualization & Dashboarding)
 
 JSON Data Handling (Data Unification))
+
 <img width="643" height="549" alt="image" src="https://github.com/user-attachments/assets/00c7b7d0-5769-4371-aa81-3127a16406da" />
